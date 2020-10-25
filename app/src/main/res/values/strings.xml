@@ -5,7 +5,6 @@
     <string name="this_activity">Ini adalah menu activity</string>
     <string name="this_fragment">Ini adalah menu fragment</string>
     <string name="search">Search</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="main_activity">Ini adalah main activity</string>
     <string name="search_hint">Masukkan kata</string>
